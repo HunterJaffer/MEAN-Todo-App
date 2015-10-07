@@ -1,0 +1,14 @@
+{
+  "name"         : "Todo_MEAN",
+  "version"      : "0.0.1",
+  "description"  : "This makes a simple Todo MEAN App that connects to a modulus.io mongodb",
+  "main"         : "server.js",
+  "author"       : "Husain.J + Scotch",
+  "dependencies" : {
+    "express"    : "latest",
+    "mongoose"   : "latest",
+    "morgan"     : "latest",
+    "body-parser": "latest",
+    "method-override": "latest"
+    }
+}
